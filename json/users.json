@@ -1,0 +1,63 @@
+[{
+    "userId": "123456",
+    "name": "Amr",
+    "username": "amrcash",
+    "password": "abc123",
+    "cashBalance": 250,
+    "portfolioValue": 350,
+
+    "portfolio": {
+        "GGL": {
+            "sharesOwned": 10,
+            "sharesOnSale": 5,
+            "avgPaid": 20
+        },
+        "AAPL": {
+            "sharesOwned": 5,
+            "sharesOnSale": 0,
+            "avgPaid": 21
+        }
+    },
+
+    "orderIds": ["xyz", "abc"],
+
+    "watchlists": {
+        "Watchlist G": {
+            "name": "Watchlist G",
+            "value": 250,
+            "symbols": ["GGL"]
+        },
+        "Watchlist X": {
+            "name": "Watchlist X",
+            "value": 350,
+            "symbols": ["GGL", "AAPL"]
+        }
+    },
+
+    "notificationIds": ["1234", "3123"],
+
+    "subscriptionIds": ["6547", "1234"],
+
+    "History": [{
+        "date": "10/01/2020",
+        "type": "Deposit",
+        "symbol": "",
+        "name": "",
+        "amount": 300,
+        "shares": ""
+    }, {
+        "date": "09/27/2020",
+        "type": "Buy",
+        "symbol": "GGL",
+        "name": "Giggle",
+        "amount": 20,
+        "shares": 10
+    }, {
+        "date": "09/15/2020",
+        "type": "Withdraw",
+        "symbol": "",
+        "name": "",
+        "amount": 1,
+        "shares": ""
+    }]
+}]

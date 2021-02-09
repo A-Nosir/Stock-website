@@ -1,0 +1,24 @@
+{
+    "xyz": {
+        "orderId": "xyz",
+        "userId": "123456",
+        "time": 123123,
+        "symbol": "GGL",
+        "stockName": "Giggle",
+        "type": "Sell",
+        "price": 25,
+        "numUnfulfilled": 3,
+        "initialNum": 5
+    },
+    "abc": {
+        "orderId": "abc",
+        "userId": "123456",
+        "time": 123123,
+        "symbol": "AAPL",
+        "stockName": "Apple Farms Inc.",
+        "type": "Buy",
+        "price": 19,
+        "numUnfulfilled": 10,
+        "initialNum": 10
+    }
+}

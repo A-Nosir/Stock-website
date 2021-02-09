@@ -1,0 +1,20 @@
+{
+    "userId": "",
+    "name": "",
+    "username": "",
+    "password": "",
+    "cashBalance": 0,
+    "portfolioValue": 0,
+
+    "portfolio": {},
+
+    "orderIds": [],
+
+    "watchlists": {},
+
+    "notificationIds": [],
+
+    "subscriptionIds": [],
+
+    "History": []
+}

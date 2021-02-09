@@ -1,0 +1,70 @@
+{
+    "GGL": {
+        "symbol": "GGL",
+        "name": "Giggle",
+        "openPrice": 25,
+        "currentPrice": 25,
+        "dayHigh": 25.1,
+        "dayLow": 25,
+        "dayTrades": 20,
+        "subscribers": { "-10": ["1234"] },
+        "orders": ["xyz"],
+
+        "history": [{
+            "date": "05/10/2020",
+            "openPrice": 22,
+            "closePrice": 23,
+            "dayHigh": 26,
+            "dayLow": 20,
+            "dayTrades": 50
+        }, {
+            "date": "04/10/2020",
+            "openPrice": 22,
+            "closePrice": 22,
+            "dayHigh": 24,
+            "dayLow": 21,
+            "dayTrades": 56
+        }, {
+            "date": "03/10/2020",
+            "openPrice": 20,
+            "closePrice": 22,
+            "dayHigh": 23,
+            "dayLow": 20,
+            "dayTrades": 52
+        }]
+    },
+    "AAPL": {
+        "symbol": "AAPL",
+        "name": "Apple Farms Inc.",
+        "openPrice": 21,
+        "currentPrice": 20,
+        "dayHigh": 24,
+        "dayLow": 19,
+        "dayTrades": 35,
+        "subscribers": { "10": ["3123"] },
+        "orders": ["abc"],
+
+        "history": [{
+            "date": "05/10/2020",
+            "openPrice": 23,
+            "closePrice": 21,
+            "dayHigh": 25,
+            "dayLow": 21,
+            "dayTrades": 18
+        }, {
+            "date": "04/10/2020",
+            "openPrice": 15,
+            "closePrice": 23,
+            "dayHigh": 23,
+            "dayLow": 10,
+            "dayTrades": 99
+        }, {
+            "date": "03/10/2020",
+            "openPrice": 60,
+            "closePrice": 15,
+            "dayHigh": 61,
+            "dayLow": 15,
+            "dayTrades": 75
+        }]
+    }
+}

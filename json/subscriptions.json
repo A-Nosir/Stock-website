@@ -1,0 +1,16 @@
+{
+    "1234": {
+        "userId": "123456",
+        "subId": "1234",
+        "symbol": "GGL",
+        "isActive": true,
+        "change": -10
+    },
+    "6547": {
+        "userId": "123456",
+        "subId": "1234",
+        "symbol": "AAPL",
+        "isActive": true,
+        "change": 10
+    }
+}

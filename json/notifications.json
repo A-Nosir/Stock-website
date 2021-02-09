@@ -1,0 +1,23 @@
+{
+    "1234": {
+        "userId": "123456",
+        "notifId": "1234",
+        "user": "",
+        "time": 1607202119110,
+        "type": "price",
+        "symbol": "GGL",
+        "change": 5,
+        "numFulfilled": 0,
+        "price": 0
+    },
+    "3123": {
+        "userId": "123456",
+        "notifId": "3123",
+        "time": 1607102019110,
+        "type": "sell",
+        "symbol": "AAPL",
+        "change": 0,
+        "numFulfilled": 5,
+        "price": 19
+    }
+}

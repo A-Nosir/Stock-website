@@ -1,0 +1,8 @@
+The search div can become a partial shared accross pages with its own source page
+	- For some reason a text node is added when html is typed instead js assigned. check this after templates are used for watchlists
+
+popups need some css
+
+use chart.js for chart
+
+uuid
